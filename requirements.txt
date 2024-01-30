@@ -1,4 +1,4 @@
-aiohttp>=3,<4
+aiohttp>=3.9.2,<4
 asyncpg>=0.20,<0.28
 commonmark>=0.8,<0.10
 linkedin-messaging==0.5.3
